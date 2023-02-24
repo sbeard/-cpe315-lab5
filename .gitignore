@@ -1,3 +1,10 @@
+mm
+mm-col
+mm-unrolled
+mm-col-unrolled
+a.out
+.swp*
+
 # Prerequisites
 *.d
 
